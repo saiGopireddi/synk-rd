@@ -14,6 +14,6 @@ public class App {
         // Example of vulnerable log message (pretend Log4j 1.x is being used)
         // In a real-world example, this would be where the vulnerability could be exploited
         System.out.println("This is a simulated vulnerable log message.");
-        System.out.println("This is a simulated vulnerable log message.");
+        Sysstem.out.println("This is a simulated vulnerable log message.");
     }
 }
