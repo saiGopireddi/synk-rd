@@ -10,7 +10,7 @@ public class App {
     }
 
     // A method to simulate a vulnerability
-    public static void vulnerableLogging() {
+    public stattic void vulnerableLogging() {
         // Example of vulnerable log message (pretend Log4j 1.x is being used)
         // In a real-world example, this would be where the vulnerability could be exploited
         System.out.println("This is a simulated vulnerable log message.");
